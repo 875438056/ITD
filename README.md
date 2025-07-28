@@ -17,10 +17,8 @@
 -torchvision	0.21.0+cu126
 
 # Model Architecture
-<img src="IMG/7structure.svg" alt="Example Image" width="300"/>
-<img src="IMG/主干网络模块.jpg" alt="Example Image" width="300"/>
-![Architecture](IMG/7structure.svg)
-![module](IMG/主干网络模块.jpg)
+<img src="IMG/7structure.svg" alt="Example Image" width="500"/>
+<img src="IMG/主干网络模块.jpg" alt="Example Image" width="500"/>
 
 # Det Results
 
@@ -36,12 +34,10 @@
 | EFLNet [[Det-Results](https://drive.google.com/drive/folders/1twsPFd3LzhPPAoA3mXDxkJgFoDUdC9-1?usp=drive_link)]     | 0.205 | 0.349 | 0.306  | 8.24 G  | 33.0 M  | 12.5 | [[Link](https://drive.google.com/file/d/1PCFJrI1Ed-VzPbGRh7gnHQBdEmOx7fqU/view?usp=drive_link)] |
 | **Ours**[[Det-Results](https://drive.google.com/drive/folders/10ArQ4dUa73or6ns1yNdQwmQMDqRdAK2s?usp=drive_link)]      | **0.817** | **0.868** | **0.859** | **2.04 G** | **1.17 M** | **30.8** | [[Link]](https://drive.google.com/file/d/12rnfe5RM-S9DIhr1NXlQ3nLAWZC6YT68/view?usp=drive_link) |
 
-![module](IMG/17results.svg)
+<img src="IMG/17results.svg" alt="Example Image" width="500"/>
 ### SIRST Det Results
 
-
-![module](IMG/18SIRST.svg)
+<img src="IMG/18SIRST.svg" alt="Example Image" width="500"/>
 ### IRSTD-1k Det Results
 
-
-![module](IMG/19IRSTD-1K.svg)
+<img src="IMG/19IRSTD-1K.svg" alt="Example Image" width="500"/>
