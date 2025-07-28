@@ -7,7 +7,7 @@
 [ITT-2_15-original](https://drive.google.com/drive/folders/166iNTmKyahH7TPzSQjt5-1j4BEX9uw-Z?usp=drive_link)
 [ITT-2_15-annotations](https://drive.google.com/drive/folders/166iNTmKyahH7TPzSQjt5-1j4BEX9uw-Z?usp=drive_link)
 
-# Prerequisites
+## Prerequisites
 -mmcv	2.1.0  
 -mmdet	3.3.0  
 -mmengine	0.10.7   
@@ -16,11 +16,11 @@
 -torch	2.6.0+cu126  
 -torchvision	0.21.0+cu126
 
-# Model Architecture
+## Model Architecture
 <img src="IMG/7structure.svg" alt="Example Image" width="500"/>
 <img src="IMG/主干网络模块.jpg" alt="Example Image" width="500"/>
 
-# Det Results
+## Det Results
 
 | Models         | mAP   | mAP50 | Recall | FLOPs   | Params  | FPS  | weight |
 |----------------|-------|-------|--------|---------|---------|------|------|
