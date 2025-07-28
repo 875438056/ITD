@@ -18,6 +18,8 @@ we will upload related code after paper is accepted.
 -torchvision	0.21.0+cu126
 
 # Det Results
+
+### ITT Det Results
 | Models         | mAP   | mAP50 | Recall | FLOPs   | Params  | FPS  | weight |
 |----------------|-------|-------|--------|---------|---------|------|------|
 | Faster RCNN [[Det-Results](https://drive.google.com/drive/folders/1lOguFXk2UPA9OZAz0C5F5A3RzV2hAUgT?usp=drive_link)] | 0.413 | 0.543 | 0.470  | 134 G   | 41.0 M  | 20   | [[Link]]() |
@@ -28,3 +30,8 @@ we will upload related code after paper is accepted.
 | YOLOv5s-S2 [[Det-Results](https://drive.google.com/drive/folders/10q4yjiAQGMqNOG4iJWxxRN5odxQifiV0?usp=drive_link)] | 0.605 | 0.745 | 0.672 | 22.0 G  | 7.23 M  | 129.8| [[Link]]() |
 | EFLNet [[Det-Results](https://drive.google.com/drive/folders/1twsPFd3LzhPPAoA3mXDxkJgFoDUdC9-1?usp=drive_link)]     | 0.205 | 0.349 | 0.306  | 8.24 G  | 33.0 M  | 12.5 | [[Link]]() |
 | **Ours**[[Det-Results](https://drive.google.com/drive/folders/10ArQ4dUa73or6ns1yNdQwmQMDqRdAK2s?usp=drive_link)]      | **0.817** | **0.868** | **0.859** | **2.04 G** | **1.17 M** | **30.8** | [[Link]]() |
+
+### SIRST Det Results
+
+
+### IRSTD-1k Det Results
