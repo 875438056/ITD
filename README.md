@@ -22,7 +22,6 @@
 
 # Det Results
 
-### ITT Det Results
 | Models         | mAP   | mAP50 | Recall | FLOPs   | Params  | FPS  | weight |
 |----------------|-------|-------|--------|---------|---------|------|------|
 | Faster RCNN [[Det-Results](https://drive.google.com/drive/folders/1lOguFXk2UPA9OZAz0C5F5A3RzV2hAUgT?usp=drive_link)] | 0.413 | 0.543 | 0.470  | 134 G   | 41.0 M  | 20   | [[Link](https://drive.google.com/file/d/18wmWKM3wMBQsusOR-_bGAu5l967Qp4TT/view?usp=drive_link)] |
@@ -33,6 +32,27 @@
 | YOLOv5s-S2 [[Det-Results](https://drive.google.com/drive/folders/10q4yjiAQGMqNOG4iJWxxRN5odxQifiV0?usp=drive_link)] | 0.605 | 0.745 | 0.672 | 22.0 G  | 7.23 M  | 129.8| [[Link](https://drive.google.com/file/d/1MZbxsVl_1wDNp98JHT9LrFgAU3Le3iZt/view?usp=drive_link)] |
 | EFLNet [[Det-Results](https://drive.google.com/drive/folders/1twsPFd3LzhPPAoA3mXDxkJgFoDUdC9-1?usp=drive_link)]     | 0.205 | 0.349 | 0.306  | 8.24 G  | 33.0 M  | 12.5 | [[Link](https://drive.google.com/file/d/1PCFJrI1Ed-VzPbGRh7gnHQBdEmOx7fqU/view?usp=drive_link)] |
 | **Ours**[[Det-Results](https://drive.google.com/drive/folders/10ArQ4dUa73or6ns1yNdQwmQMDqRdAK2s?usp=drive_link)]      | **0.817** | **0.868** | **0.859** | **2.04 G** | **1.17 M** | **30.8** | [[Link]](https://drive.google.com/file/d/12rnfe5RM-S9DIhr1NXlQ3nLAWZC6YT68/view?usp=drive_link) |
+
+| Datasets    | Models           | Precision | Recall | F1    |
+|-------------|------------------|-----------|--------|-------|
+| **SIRST**   | MDvsFAcGan  | 0.845 | 0.507  | 0.597 |
+|             | ALCNet  | 0.848 | 0.780  | 0.812 |
+|             | ACMNet | 0.765 | 0.762  | 0.763 |
+|             | DNANet | 0.847 | 0.836  | 0.844 |
+|             | EFLNet | 0.882 | 0.858  | 0.870 |
+|             | UIUNet | 0.865 | 0.841  | 0.852 |
+|             | **Ours** | **0.990** | **0.988** | **0.989** |
+| **IRSTD-1k**| MDvsFAcGan | 0.837 | 0.648  | 0.730 |
+|             | ALCNet | 0.843 | 0.656  | 0.738 |
+|             | ACMNet | 0.880 | 0.883  | 0.866 |
+|             | DNANet | 0.829 | 0.880  | 0.844 |
+|             | EFLNet | 0.870 | 0.817  | 0.844 |
+|             | UIUNet | 0.859 | 0.873  | 0.866 |
+|             | **Ours** | **0.964** | **0.927** | **0.945** |
+
+
+
+### ITT Det Results
 <img src="IMG/17results.svg" alt="Example Image" width="500"/>
 
 ### SIRST Det Results
