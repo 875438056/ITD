@@ -18,6 +18,7 @@
 
 # Model Architecture
 ![Architecture](IMG/7structure.svg)
+![module](IMG/8backbone%20module.svg)
 
 # Det Results
 
