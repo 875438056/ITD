@@ -17,6 +17,8 @@
 -torchvision	0.21.0+cu126
 
 # Model Architecture
+<img src="IMG/7structure.svg" alt="Example Image" width="300"/>
+<img src="IMG/主干网络模块.jpg" alt="Example Image" width="300"/>
 ![Architecture](IMG/7structure.svg)
 ![module](IMG/主干网络模块.jpg)
 
