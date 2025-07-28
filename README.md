@@ -18,7 +18,7 @@
 
 # Model Architecture
 ![Architecture](IMG/7structure.svg)
-![module](IMG/8backbone%20module.svg)
+![module](IMG/主干网络模块.jpg)
 
 # Det Results
 
