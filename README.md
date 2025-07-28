@@ -1,6 +1,5 @@
 # ITD
 ## Infrared Tiny Target Detection  
-### we will upload related code after paper is accepted.
 
 # Datasets sources
 [SIRST](https://github.com/YimianDai/sirst)
@@ -16,6 +15,9 @@
 -opencv-python	4.11.0.86  
 -torch	2.6.0+cu126  
 -torchvision	0.21.0+cu126
+
+# Model Architecture
+![Architecture](IMG/7structure.svg)
 
 # Det Results
 
