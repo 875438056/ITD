@@ -1,0 +1,3325 @@
+{"info": {},
+    "images": [
+        {
+            "id": "Misc_60",
+            "width": 274,
+            "height": 240,
+            "file_name": "Misc_60.png"
+        },
+        {
+            "id": "Misc_224",
+            "width": 264,
+            "height": 182,
+            "file_name": "Misc_224.png"
+        },
+        {
+            "id": "S20210422_S6_1",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210422_S6_1.png"
+        },
+        {
+            "id": "Misc_284",
+            "width": 323,
+            "height": 204,
+            "file_name": "Misc_284.png"
+        },
+        {
+            "id": "Misc_388",
+            "width": 256,
+            "height": 271,
+            "file_name": "Misc_388.png"
+        },
+        {
+            "id": "S20210422_S6_338",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210422_S6_338.png"
+        },
+        {
+            "id": "Misc_72",
+            "width": 324,
+            "height": 238,
+            "file_name": "Misc_72.png"
+        },
+        {
+            "id": "Misc_111",
+            "width": 325,
+            "height": 220,
+            "file_name": "Misc_111.png"
+        },
+        {
+            "id": "S20210422_S3_1",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210422_S3_1.png"
+        },
+        {
+            "id": "Misc_102",
+            "width": 308,
+            "height": 205,
+            "file_name": "Misc_102.png"
+        },
+        {
+            "id": "S20210621_S5_184",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210621_S5_184.png"
+        },
+        {
+            "id": "Misc_364",
+            "width": 280,
+            "height": 280,
+            "file_name": "Misc_364.png"
+        },
+        {
+            "id": "Misc_70",
+            "width": 338,
+            "height": 251,
+            "file_name": "Misc_70.png"
+        },
+        {
+            "id": "Misc_419",
+            "width": 315,
+            "height": 234,
+            "file_name": "Misc_419.png"
+        },
+        {
+            "id": "S20210621_S4_32",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210621_S4_32.png"
+        },
+        {
+            "id": "Misc_397",
+            "width": 341,
+            "height": 357,
+            "file_name": "Misc_397.png"
+        },
+        {
+            "id": "Misc_161",
+            "width": 249,
+            "height": 154,
+            "file_name": "Misc_161.png"
+        },
+        {
+            "id": "S20210527_S8_77",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210527_S8_77.png"
+        },
+        {
+            "id": "Misc_4",
+            "width": 348,
+            "height": 278,
+            "file_name": "Misc_4.png"
+        },
+        {
+            "id": "S20210422_S5_277",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210422_S5_277.png"
+        },
+        {
+            "id": "Misc_395",
+            "width": 374,
+            "height": 362,
+            "file_name": "Misc_395.png"
+        },
+        {
+            "id": "S20210713_S3_33",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210713_S3_33.png"
+        },
+        {
+            "id": "Misc_262",
+            "width": 301,
+            "height": 205,
+            "file_name": "Misc_262.png"
+        },
+        {
+            "id": "Misc_54",
+            "width": 303,
+            "height": 198,
+            "file_name": "Misc_54.png"
+        },
+        {
+            "id": "Misc_120",
+            "width": 300,
+            "height": 209,
+            "file_name": "Misc_120.png"
+        },
+        {
+            "id": "Misc_306",
+            "width": 280,
+            "height": 238,
+            "file_name": "Misc_306.png"
+        },
+        {
+            "id": "Misc_392",
+            "width": 331,
+            "height": 300,
+            "file_name": "Misc_392.png"
+        },
+        {
+            "id": "Misc_219",
+            "width": 303,
+            "height": 196,
+            "file_name": "Misc_219.png"
+        },
+        {
+            "id": "S20210303_S4_25",
+            "width": 1024,
+            "height": 1024,
+            "file_name": "S20210303_S4_25.png"
+        },
+        {
+            "id": "Misc_17",
+            "width": 368,
+            "height": 267,
+            "file_name": "Misc_17.png"
+        },
+        {
+            "id": "Misc_387",
+            "width": 292,
+            "height": 289,
+            "file_name": "Misc_387.png"
+        },
+        {
+            "id": "S20210713_S3_29",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210713_S3_29.png"
+        },
+        {
+            "id": "Misc_367",
+            "width": 274,
+            "height": 274,
+            "file_name": "Misc_367.png"
+        },
+        {
+            "id": "Misc_189",
+            "width": 316,
+            "height": 219,
+            "file_name": "Misc_189.png"
+        },
+        {
+            "id": "Misc_34",
+            "width": 319,
+            "height": 240,
+            "file_name": "Misc_34.png"
+        },
+        {
+            "id": "Misc_209",
+            "width": 373,
+            "height": 272,
+            "file_name": "Misc_209.png"
+        },
+        {
+            "id": "S20210527_S8_8",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210527_S8_8.png"
+        },
+        {
+            "id": "Misc_233",
+            "width": 271,
+            "height": 180,
+            "file_name": "Misc_233.png"
+        },
+        {
+            "id": "Misc_208",
+            "width": 334,
+            "height": 225,
+            "file_name": "Misc_208.png"
+        },
+        {
+            "id": "Misc_68",
+            "width": 305,
+            "height": 213,
+            "file_name": "Misc_68.png"
+        },
+        {
+            "id": "Misc_116",
+            "width": 291,
+            "height": 196,
+            "file_name": "Misc_116.png"
+        },
+        {
+            "id": "Misc_148",
+            "width": 286,
+            "height": 200,
+            "file_name": "Misc_148.png"
+        },
+        {
+            "id": "S20210527_S8_171",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210527_S8_171.png"
+        },
+        {
+            "id": "S20210713_S2_23",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210713_S2_23.png"
+        },
+        {
+            "id": "S20210303_S9_1",
+            "width": 1024,
+            "height": 1024,
+            "file_name": "S20210303_S9_1.png"
+        },
+        {
+            "id": "Misc_363",
+            "width": 306,
+            "height": 305,
+            "file_name": "Misc_363.png"
+        },
+        {
+            "id": "Misc_58",
+            "width": 330,
+            "height": 252,
+            "file_name": "Misc_58.png"
+        },
+        {
+            "id": "Misc_79",
+            "width": 407,
+            "height": 272,
+            "file_name": "Misc_79.png"
+        },
+        {
+            "id": "S20210527_S6_84",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210527_S6_84.png"
+        },
+        {
+            "id": "S20210527_S4_240",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210527_S4_240.png"
+        },
+        {
+            "id": "Misc_389",
+            "width": 331,
+            "height": 315,
+            "file_name": "Misc_389.png"
+        },
+        {
+            "id": "Misc_321",
+            "width": 253,
+            "height": 192,
+            "file_name": "Misc_321.png"
+        },
+        {
+            "id": "Misc_82",
+            "width": 302,
+            "height": 307,
+            "file_name": "Misc_82.png"
+        },
+        {
+            "id": "Misc_218",
+            "width": 304,
+            "height": 187,
+            "file_name": "Misc_218.png"
+        },
+        {
+            "id": "Misc_33",
+            "width": 302,
+            "height": 209,
+            "file_name": "Misc_33.png"
+        },
+        {
+            "id": "Misc_260",
+            "width": 292,
+            "height": 203,
+            "file_name": "Misc_260.png"
+        },
+        {
+            "id": "S20210527_S4_3",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210527_S4_3.png"
+        },
+        {
+            "id": "Misc_415",
+            "width": 303,
+            "height": 200,
+            "file_name": "Misc_415.png"
+        },
+        {
+            "id": "Misc_426",
+            "width": 270,
+            "height": 186,
+            "file_name": "Misc_426.png"
+        },
+        {
+            "id": "S20210422_S3_184",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210422_S3_184.png"
+        },
+        {
+            "id": "S20210621_S5_255",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210621_S5_255.png"
+        },
+        {
+            "id": "S20210422_S7_84",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210422_S7_84.png"
+        },
+        {
+            "id": "Misc_28",
+            "width": 300,
+            "height": 256,
+            "file_name": "Misc_28.png"
+        },
+        {
+            "id": "Misc_98",
+            "width": 343,
+            "height": 263,
+            "file_name": "Misc_98.png"
+        },
+        {
+            "id": "Misc_75",
+            "width": 308,
+            "height": 217,
+            "file_name": "Misc_75.png"
+        },
+        {
+            "id": "Misc_151",
+            "width": 286,
+            "height": 175,
+            "file_name": "Misc_151.png"
+        },
+        {
+            "id": "Misc_406",
+            "width": 222,
+            "height": 222,
+            "file_name": "Misc_406.png"
+        },
+        {
+            "id": "Misc_270",
+            "width": 253,
+            "height": 159,
+            "file_name": "Misc_270.png"
+        },
+        {
+            "id": "Misc_90",
+            "width": 304,
+            "height": 212,
+            "file_name": "Misc_90.png"
+        },
+        {
+            "id": "Misc_288",
+            "width": 320,
+            "height": 240,
+            "file_name": "Misc_288.png"
+        },
+        {
+            "id": "Misc_212",
+            "width": 300,
+            "height": 192,
+            "file_name": "Misc_212.png"
+        },
+        {
+            "id": "Misc_163",
+            "width": 283,
+            "height": 181,
+            "file_name": "Misc_163.png"
+        },
+        {
+            "id": "Misc_35",
+            "width": 320,
+            "height": 255,
+            "file_name": "Misc_35.png"
+        },
+        {
+            "id": "Misc_126",
+            "width": 300,
+            "height": 200,
+            "file_name": "Misc_126.png"
+        },
+        {
+            "id": "S20210527_S7_109",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210527_S7_109.png"
+        },
+        {
+            "id": "Misc_92",
+            "width": 363,
+            "height": 212,
+            "file_name": "Misc_92.png"
+        },
+        {
+            "id": "Misc_348",
+            "width": 375,
+            "height": 319,
+            "file_name": "Misc_348.png"
+        },
+        {
+            "id": "Misc_159",
+            "width": 299,
+            "height": 177,
+            "file_name": "Misc_159.png"
+        },
+        {
+            "id": "Misc_227",
+            "width": 280,
+            "height": 187,
+            "file_name": "Misc_227.png"
+        },
+        {
+            "id": "Misc_258",
+            "width": 252,
+            "height": 161,
+            "file_name": "Misc_258.png"
+        },
+        {
+            "id": "S20210527_S4_201",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210527_S4_201.png"
+        },
+        {
+            "id": "Misc_45",
+            "width": 298,
+            "height": 189,
+            "file_name": "Misc_45.png"
+        },
+        {
+            "id": "Misc_91",
+            "width": 269,
+            "height": 197,
+            "file_name": "Misc_91.png"
+        },
+        {
+            "id": "Misc_193",
+            "width": 287,
+            "height": 192,
+            "file_name": "Misc_193.png"
+        },
+        {
+            "id": "Misc_356",
+            "width": 356,
+            "height": 356,
+            "file_name": "Misc_356.png"
+        },
+        {
+            "id": "Misc_207",
+            "width": 344,
+            "height": 223,
+            "file_name": "Misc_207.png"
+        },
+        {
+            "id": "Misc_300",
+            "width": 261,
+            "height": 172,
+            "file_name": "Misc_300.png"
+        },
+        {
+            "id": "Misc_217",
+            "width": 310,
+            "height": 207,
+            "file_name": "Misc_217.png"
+        },
+        {
+            "id": "Misc_1",
+            "width": 320,
+            "height": 240,
+            "file_name": "Misc_1.png"
+        },
+        {
+            "id": "Misc_236",
+            "width": 347,
+            "height": 210,
+            "file_name": "Misc_236.png"
+        },
+        {
+            "id": "Misc_322",
+            "width": 257,
+            "height": 257,
+            "file_name": "Misc_322.png"
+        },
+        {
+            "id": "Misc_283",
+            "width": 298,
+            "height": 202,
+            "file_name": "Misc_283.png"
+        },
+        {
+            "id": "Misc_129",
+            "width": 337,
+            "height": 211,
+            "file_name": "Misc_129.png"
+        },
+        {
+            "id": "Misc_252",
+            "width": 302,
+            "height": 210,
+            "file_name": "Misc_252.png"
+        },
+        {
+            "id": "Misc_250",
+            "width": 262,
+            "height": 179,
+            "file_name": "Misc_250.png"
+        },
+        {
+            "id": "Misc_359",
+            "width": 291,
+            "height": 291,
+            "file_name": "Misc_359.png"
+        },
+        {
+            "id": "S20210527_S6_53",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210527_S6_53.png"
+        },
+        {
+            "id": "S20210422_S5_23",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210422_S5_23.png"
+        },
+        {
+            "id": "Misc_336",
+            "width": 300,
+            "height": 209,
+            "file_name": "Misc_336.png"
+        },
+        {
+            "id": "Misc_175",
+            "width": 304,
+            "height": 183,
+            "file_name": "Misc_175.png"
+        },
+        {
+            "id": "S20210422_S1_94",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210422_S1_94.png"
+        },
+        {
+            "id": "S20210527_S4_26",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210527_S4_26.png"
+        },
+        {
+            "id": "Misc_401",
+            "width": 332,
+            "height": 223,
+            "file_name": "Misc_401.png"
+        },
+        {
+            "id": "Misc_302",
+            "width": 321,
+            "height": 221,
+            "file_name": "Misc_302.png"
+        },
+        {
+            "id": "S20210303_S6_23",
+            "width": 1024,
+            "height": 1024,
+            "file_name": "S20210303_S6_23.png"
+        },
+        {
+            "id": "S20210527_S7_124",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210527_S7_124.png"
+        },
+        {
+            "id": "S20210527_S7_149",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210527_S7_149.png"
+        },
+        {
+            "id": "Misc_204",
+            "width": 340,
+            "height": 217,
+            "file_name": "Misc_204.png"
+        },
+        {
+            "id": "Misc_386",
+            "width": 300,
+            "height": 299,
+            "file_name": "Misc_386.png"
+        },
+        {
+            "id": "S20210527_S7_49",
+            "width": 640,
+            "height": 512,
+            "file_name": "S20210527_S7_49.png"
+        },
+        {
+            "id": "Misc_167",
+            "width": 282,
+            "height": 184,
+            "file_name": "Misc_167.png"
+        },
+        {
+            "id": "Misc_280",
+            "width": 323,
+            "height": 219,
+            "file_name": "Misc_280.png"
+        },
+        {
+            "id": "Misc_86",
+            "width": 305,
+            "height": 207,
+            "file_name": "Misc_86.png"
+        },
+        {
+            "id": "Misc_154",
+            "width": 273,
+            "height": 182,
+            "file_name": "Misc_154.png"
+        },
+        {
+            "id": "Misc_119",
+            "width": 296,
+            "height": 197,
+            "file_name": "Misc_119.png"
+        },
+        {
+            "id": "Misc_198",
+            "width": 301,
+            "height": 194,
+            "file_name": "Misc_198.png"
+        },
+        {
+            "id": "Misc_370",
+            "width": 255,
+            "height": 255,
+            "file_name": "Misc_370.png"
+        },
+        {
+            "id": "Misc_191",
+            "width": 311,
+            "height": 222,
+            "file_name": "Misc_191.png"
+        },
+        {
+            "id": "Misc_63",
+            "width": 291,
+            "height": 206,
+            "file_name": "Misc_63.png"
+        },
+        {
+            "id": "Misc_362",
+            "width": 325,
+            "height": 192,
+            "file_name": "Misc_362.png"
+        },
+        {
+            "id": "Misc_121",
+            "width": 303,
+            "height": 199,
+            "file_name": "Misc_121.png"
+        },
+        {
+            "id": "Misc_274",
+            "width": 209,
+            "height": 157,
+            "file_name": "Misc_274.png"
+        },
+        {
+            "id": "Misc_281",
+            "width": 273,
+            "height": 152,
+            "file_name": "Misc_281.png"
+        },
+        {
+            "id": "Misc_349",
+            "width": 335,
+            "height": 273,
+            "file_name": "Misc_349.png"
+        },
+        {
+            "id": "Misc_187",
+            "width": 303,
+            "height": 199,
+            "file_name": "Misc_187.png"
+        },
+        {
+            "id": "Misc_326",
+            "width": 311,
+            "height": 264,
+            "file_name": "Misc_326.png"
+        },
+        {
+            "id": "Misc_355",
+            "width": 307,
+            "height": 212,
+            "file_name": "Misc_355.png"
+        },
+        {
+            "id": "Misc_234",
+            "width": 357,
+            "height": 236,
+            "file_name": "Misc_234.png"
+        },
+        {
+            "id": "Misc_150",
+            "width": 315,
+            "height": 206,
+            "file_name": "Misc_150.png"
+        },
+        {
+            "id": "S20210303_S5_28",
+            "width": 1024,
+            "height": 1024,
+            "file_name": "S20210303_S5_28.png"
+        },
+        {
+            "id": "Misc_192",
+            "width": 286,
+            "height": 199,
+            "file_name": "Misc_192.png"
+        },
+        {
+            "id": "Misc_96",
+            "width": 291,
+            "height": 215,
+            "file_name": "Misc_96.png"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": "Misc_60",
+            "category_id": 0,
+            "bbox": [
+                197,
+                104,
+                23,
+                11
+            ],
+            "area": 253.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1,
+            "image_id": "Misc_224",
+            "category_id": 0,
+            "bbox": [
+                204,
+                59,
+                5,
+                6
+            ],
+            "area": 30.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2,
+            "image_id": "S20210422_S6_1",
+            "category_id": 0,
+            "bbox": [
+                531,
+                294,
+                24,
+                6
+            ],
+            "area": 144.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3,
+            "image_id": "Misc_284",
+            "category_id": 0,
+            "bbox": [
+                104,
+                167,
+                2,
+                2
+            ],
+            "area": 4.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4,
+            "image_id": "Misc_284",
+            "category_id": 0,
+            "bbox": [
+                175,
+                155,
+                2,
+                4
+            ],
+            "area": 8.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5,
+            "image_id": "Misc_284",
+            "category_id": 0,
+            "bbox": [
+                316,
+                123,
+                2,
+                2
+            ],
+            "area": 4.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6,
+            "image_id": "Misc_284",
+            "category_id": 0,
+            "bbox": [
+                271,
+                103,
+                3,
+                4
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7,
+            "image_id": "Misc_284",
+            "category_id": 0,
+            "bbox": [
+                63,
+                79,
+                2,
+                2
+            ],
+            "area": 4.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8,
+            "image_id": "Misc_284",
+            "category_id": 0,
+            "bbox": [
+                235,
+                47,
+                3,
+                2
+            ],
+            "area": 6.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9,
+            "image_id": "Misc_284",
+            "category_id": 0,
+            "bbox": [
+                238,
+                41,
+                3,
+                4
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10,
+            "image_id": "Misc_388",
+            "category_id": 0,
+            "bbox": [
+                226,
+                139,
+                7,
+                6
+            ],
+            "area": 42.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11,
+            "image_id": "S20210422_S6_338",
+            "category_id": 0,
+            "bbox": [
+                408,
+                394,
+                20,
+                6
+            ],
+            "area": 120.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12,
+            "image_id": "Misc_72",
+            "category_id": 0,
+            "bbox": [
+                149,
+                69,
+                6,
+                5
+            ],
+            "area": 30.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13,
+            "image_id": "Misc_111",
+            "category_id": 0,
+            "bbox": [
+                143,
+                114,
+                8,
+                6
+            ],
+            "area": 48.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14,
+            "image_id": "S20210422_S3_1",
+            "category_id": 0,
+            "bbox": [
+                468,
+                261,
+                5,
+                3
+            ],
+            "area": 15.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15,
+            "image_id": "S20210422_S3_1",
+            "category_id": 0,
+            "bbox": [
+                121,
+                22,
+                6,
+                3
+            ],
+            "area": 18.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16,
+            "image_id": "Misc_102",
+            "category_id": 0,
+            "bbox": [
+                172,
+                36,
+                17,
+                7
+            ],
+            "area": 119.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17,
+            "image_id": "S20210621_S5_184",
+            "category_id": 0,
+            "bbox": [
+                381,
+                118,
+                4,
+                5
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18,
+            "image_id": "Misc_364",
+            "category_id": 0,
+            "bbox": [
+                159,
+                199,
+                6,
+                4
+            ],
+            "area": 24.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19,
+            "image_id": "Misc_70",
+            "category_id": 0,
+            "bbox": [
+                160,
+                106,
+                6,
+                6
+            ],
+            "area": 36.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20,
+            "image_id": "Misc_419",
+            "category_id": 0,
+            "bbox": [
+                31,
+                34,
+                6,
+                7
+            ],
+            "area": 42.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21,
+            "image_id": "S20210621_S4_32",
+            "category_id": 0,
+            "bbox": [
+                256,
+                212,
+                11,
+                6
+            ],
+            "area": 66.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22,
+            "image_id": "Misc_397",
+            "category_id": 0,
+            "bbox": [
+                20,
+                133,
+                6,
+                6
+            ],
+            "area": 36.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23,
+            "image_id": "Misc_161",
+            "category_id": 0,
+            "bbox": [
+                128,
+                37,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 24,
+            "image_id": "S20210527_S8_77",
+            "category_id": 0,
+            "bbox": [
+                429,
+                383,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 25,
+            "image_id": "S20210527_S8_77",
+            "category_id": 0,
+            "bbox": [
+                280,
+                373,
+                4,
+                3
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 26,
+            "image_id": "Misc_4",
+            "category_id": 0,
+            "bbox": [
+                152,
+                137,
+                41,
+                11
+            ],
+            "area": 451.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 27,
+            "image_id": "S20210422_S5_277",
+            "category_id": 0,
+            "bbox": [
+                583,
+                137,
+                16,
+                5
+            ],
+            "area": 80.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 28,
+            "image_id": "Misc_395",
+            "category_id": 0,
+            "bbox": [
+                160,
+                339,
+                6,
+                7
+            ],
+            "area": 42.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 29,
+            "image_id": "S20210713_S3_33",
+            "category_id": 0,
+            "bbox": [
+                217,
+                77,
+                9,
+                5
+            ],
+            "area": 45.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 30,
+            "image_id": "Misc_262",
+            "category_id": 0,
+            "bbox": [
+                195,
+                57,
+                9,
+                7
+            ],
+            "area": 63.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 31,
+            "image_id": "Misc_54",
+            "category_id": 0,
+            "bbox": [
+                166,
+                76,
+                8,
+                7
+            ],
+            "area": 56.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 32,
+            "image_id": "Misc_120",
+            "category_id": 0,
+            "bbox": [
+                250,
+                177,
+                2,
+                2
+            ],
+            "area": 4.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 33,
+            "image_id": "Misc_306",
+            "category_id": 0,
+            "bbox": [
+                39,
+                142,
+                4,
+                8
+            ],
+            "area": 32.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 34,
+            "image_id": "Misc_306",
+            "category_id": 0,
+            "bbox": [
+                167,
+                117,
+                10,
+                8
+            ],
+            "area": 80.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 35,
+            "image_id": "Misc_392",
+            "category_id": 0,
+            "bbox": [
+                166,
+                140,
+                13,
+                15
+            ],
+            "area": 195.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 36,
+            "image_id": "Misc_219",
+            "category_id": 0,
+            "bbox": [
+                155,
+                136,
+                9,
+                5
+            ],
+            "area": 45.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 37,
+            "image_id": "S20210303_S4_25",
+            "category_id": 0,
+            "bbox": [
+                463,
+                595,
+                6,
+                3
+            ],
+            "area": 18.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 38,
+            "image_id": "Misc_17",
+            "category_id": 0,
+            "bbox": [
+                187,
+                132,
+                3,
+                3
+            ],
+            "area": 9.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 39,
+            "image_id": "Misc_387",
+            "category_id": 0,
+            "bbox": [
+                33,
+                208,
+                6,
+                8
+            ],
+            "area": 48.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 40,
+            "image_id": "S20210713_S3_29",
+            "category_id": 0,
+            "bbox": [
+                257,
+                158,
+                10,
+                8
+            ],
+            "area": 80.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 41,
+            "image_id": "Misc_367",
+            "category_id": 0,
+            "bbox": [
+                36,
+                144,
+                4,
+                5
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 42,
+            "image_id": "Misc_189",
+            "category_id": 0,
+            "bbox": [
+                256,
+                113,
+                4,
+                5
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 43,
+            "image_id": "Misc_34",
+            "category_id": 0,
+            "bbox": [
+                208,
+                92,
+                13,
+                6
+            ],
+            "area": 78.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 44,
+            "image_id": "Misc_209",
+            "category_id": 0,
+            "bbox": [
+                120,
+                206,
+                3,
+                2
+            ],
+            "area": 6.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 45,
+            "image_id": "Misc_209",
+            "category_id": 0,
+            "bbox": [
+                62,
+                38,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 46,
+            "image_id": "S20210527_S8_8",
+            "category_id": 0,
+            "bbox": [
+                216,
+                240,
+                8,
+                6
+            ],
+            "area": 48.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 47,
+            "image_id": "Misc_233",
+            "category_id": 0,
+            "bbox": [
+                140,
+                89,
+                7,
+                4
+            ],
+            "area": 28.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 48,
+            "image_id": "Misc_208",
+            "category_id": 0,
+            "bbox": [
+                120,
+                210,
+                3,
+                2
+            ],
+            "area": 6.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 49,
+            "image_id": "Misc_208",
+            "category_id": 0,
+            "bbox": [
+                212,
+                62,
+                3,
+                4
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 50,
+            "image_id": "Misc_208",
+            "category_id": 0,
+            "bbox": [
+                83,
+                45,
+                4,
+                7
+            ],
+            "area": 28.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 51,
+            "image_id": "Misc_68",
+            "category_id": 0,
+            "bbox": [
+                159,
+                58,
+                3,
+                4
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 52,
+            "image_id": "Misc_116",
+            "category_id": 0,
+            "bbox": [
+                153,
+                145,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 53,
+            "image_id": "Misc_148",
+            "category_id": 0,
+            "bbox": [
+                204,
+                156,
+                5,
+                3
+            ],
+            "area": 15.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 54,
+            "image_id": "S20210527_S8_171",
+            "category_id": 0,
+            "bbox": [
+                331,
+                124,
+                6,
+                4
+            ],
+            "area": 24.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 55,
+            "image_id": "S20210713_S2_23",
+            "category_id": 0,
+            "bbox": [
+                358,
+                342,
+                3,
+                4
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 56,
+            "image_id": "S20210303_S9_1",
+            "category_id": 0,
+            "bbox": [
+                415,
+                621,
+                9,
+                8
+            ],
+            "area": 72.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 57,
+            "image_id": "Misc_363",
+            "category_id": 0,
+            "bbox": [
+                277,
+                236,
+                5,
+                6
+            ],
+            "area": 30.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 58,
+            "image_id": "Misc_58",
+            "category_id": 0,
+            "bbox": [
+                47,
+                13,
+                16,
+                5
+            ],
+            "area": 80.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 59,
+            "image_id": "Misc_79",
+            "category_id": 0,
+            "bbox": [
+                189,
+                61,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 60,
+            "image_id": "S20210527_S6_84",
+            "category_id": 0,
+            "bbox": [
+                385,
+                219,
+                6,
+                5
+            ],
+            "area": 30.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 61,
+            "image_id": "S20210527_S4_240",
+            "category_id": 0,
+            "bbox": [
+                361,
+                241,
+                4,
+                3
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 62,
+            "image_id": "S20210527_S4_240",
+            "category_id": 0,
+            "bbox": [
+                280,
+                225,
+                5,
+                2
+            ],
+            "area": 10.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 63,
+            "image_id": "Misc_389",
+            "category_id": 0,
+            "bbox": [
+                309,
+                256,
+                8,
+                8
+            ],
+            "area": 64.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 64,
+            "image_id": "Misc_321",
+            "category_id": 0,
+            "bbox": [
+                159,
+                56,
+                5,
+                11
+            ],
+            "area": 55.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 65,
+            "image_id": "Misc_82",
+            "category_id": 0,
+            "bbox": [
+                209,
+                39,
+                10,
+                5
+            ],
+            "area": 50.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 66,
+            "image_id": "Misc_218",
+            "category_id": 0,
+            "bbox": [
+                176,
+                169,
+                9,
+                6
+            ],
+            "area": 54.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 67,
+            "image_id": "Misc_33",
+            "category_id": 0,
+            "bbox": [
+                47,
+                130,
+                3,
+                3
+            ],
+            "area": 9.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 68,
+            "image_id": "Misc_260",
+            "category_id": 0,
+            "bbox": [
+                137,
+                77,
+                5,
+                5
+            ],
+            "area": 25.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 69,
+            "image_id": "S20210527_S4_3",
+            "category_id": 0,
+            "bbox": [
+                327,
+                155,
+                32,
+                21
+            ],
+            "area": 672.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 70,
+            "image_id": "Misc_415",
+            "category_id": 0,
+            "bbox": [
+                158,
+                49,
+                5,
+                5
+            ],
+            "area": 25.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 71,
+            "image_id": "Misc_426",
+            "category_id": 0,
+            "bbox": [
+                65,
+                141,
+                7,
+                6
+            ],
+            "area": 42.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 72,
+            "image_id": "Misc_426",
+            "category_id": 0,
+            "bbox": [
+                114,
+                137,
+                3,
+                4
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 73,
+            "image_id": "Misc_426",
+            "category_id": 0,
+            "bbox": [
+                248,
+                134,
+                11,
+                9
+            ],
+            "area": 99.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 74,
+            "image_id": "Misc_426",
+            "category_id": 0,
+            "bbox": [
+                118,
+                134,
+                3,
+                6
+            ],
+            "area": 18.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 75,
+            "image_id": "S20210422_S3_184",
+            "category_id": 0,
+            "bbox": [
+                35,
+                490,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 76,
+            "image_id": "S20210422_S3_184",
+            "category_id": 0,
+            "bbox": [
+                197,
+                414,
+                4,
+                3
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 77,
+            "image_id": "S20210422_S3_184",
+            "category_id": 0,
+            "bbox": [
+                531,
+                233,
+                5,
+                5
+            ],
+            "area": 25.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 78,
+            "image_id": "S20210621_S5_255",
+            "category_id": 0,
+            "bbox": [
+                322,
+                284,
+                4,
+                5
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 79,
+            "image_id": "S20210422_S7_84",
+            "category_id": 0,
+            "bbox": [
+                599,
+                410,
+                5,
+                3
+            ],
+            "area": 15.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 80,
+            "image_id": "S20210422_S7_84",
+            "category_id": 0,
+            "bbox": [
+                572,
+                325,
+                7,
+                4
+            ],
+            "area": 28.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 81,
+            "image_id": "S20210422_S7_84",
+            "category_id": 0,
+            "bbox": [
+                92,
+                152,
+                4,
+                2
+            ],
+            "area": 8.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 82,
+            "image_id": "S20210422_S7_84",
+            "category_id": 0,
+            "bbox": [
+                601,
+                59,
+                6,
+                3
+            ],
+            "area": 18.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 83,
+            "image_id": "Misc_28",
+            "category_id": 0,
+            "bbox": [
+                121,
+                125,
+                24,
+                4
+            ],
+            "area": 96.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 84,
+            "image_id": "Misc_28",
+            "category_id": 0,
+            "bbox": [
+                89,
+                122,
+                20,
+                5
+            ],
+            "area": 100.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 85,
+            "image_id": "Misc_98",
+            "category_id": 0,
+            "bbox": [
+                324,
+                214,
+                5,
+                6
+            ],
+            "area": 30.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 86,
+            "image_id": "Misc_75",
+            "category_id": 0,
+            "bbox": [
+                169,
+                145,
+                3,
+                3
+            ],
+            "area": 9.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 87,
+            "image_id": "Misc_75",
+            "category_id": 0,
+            "bbox": [
+                125,
+                110,
+                13,
+                9
+            ],
+            "area": 117.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 88,
+            "image_id": "Misc_151",
+            "category_id": 0,
+            "bbox": [
+                76,
+                78,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 89,
+            "image_id": "Misc_406",
+            "category_id": 0,
+            "bbox": [
+                166,
+                32,
+                5,
+                7
+            ],
+            "area": 35.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 90,
+            "image_id": "Misc_270",
+            "category_id": 0,
+            "bbox": [
+                69,
+                67,
+                6,
+                6
+            ],
+            "area": 36.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 91,
+            "image_id": "Misc_90",
+            "category_id": 0,
+            "bbox": [
+                87,
+                54,
+                18,
+                15
+            ],
+            "area": 270.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 92,
+            "image_id": "Misc_288",
+            "category_id": 0,
+            "bbox": [
+                147,
+                68,
+                5,
+                5
+            ],
+            "area": 25.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 93,
+            "image_id": "Misc_212",
+            "category_id": 0,
+            "bbox": [
+                159,
+                76,
+                5,
+                6
+            ],
+            "area": 30.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 94,
+            "image_id": "Misc_163",
+            "category_id": 0,
+            "bbox": [
+                91,
+                20,
+                7,
+                6
+            ],
+            "area": 42.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 95,
+            "image_id": "Misc_35",
+            "category_id": 0,
+            "bbox": [
+                148,
+                91,
+                3,
+                3
+            ],
+            "area": 9.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 96,
+            "image_id": "Misc_126",
+            "category_id": 0,
+            "bbox": [
+                224,
+                178,
+                5,
+                3
+            ],
+            "area": 15.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 97,
+            "image_id": "S20210527_S7_109",
+            "category_id": 0,
+            "bbox": [
+                493,
+                139,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 98,
+            "image_id": "Misc_92",
+            "category_id": 0,
+            "bbox": [
+                136,
+                65,
+                14,
+                5
+            ],
+            "area": 70.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 99,
+            "image_id": "Misc_348",
+            "category_id": 0,
+            "bbox": [
+                30,
+                181,
+                5,
+                6
+            ],
+            "area": 30.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 100,
+            "image_id": "Misc_159",
+            "category_id": 0,
+            "bbox": [
+                151,
+                54,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 101,
+            "image_id": "Misc_227",
+            "category_id": 0,
+            "bbox": [
+                114,
+                68,
+                3,
+                4
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 102,
+            "image_id": "Misc_258",
+            "category_id": 0,
+            "bbox": [
+                228,
+                20,
+                4,
+                4
+            ],
+            "area": 16.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 103,
+            "image_id": "S20210527_S4_201",
+            "category_id": 0,
+            "bbox": [
+                295,
+                218,
+                5,
+                3
+            ],
+            "area": 15.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 104,
+            "image_id": "S20210527_S4_201",
+            "category_id": 0,
+            "bbox": [
+                320,
+                206,
+                4,
+                3
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 105,
+            "image_id": "Misc_45",
+            "category_id": 0,
+            "bbox": [
+                186,
+                99,
+                14,
+                15
+            ],
+            "area": 210.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 106,
+            "image_id": "Misc_91",
+            "category_id": 0,
+            "bbox": [
+                163,
+                117,
+                13,
+                10
+            ],
+            "area": 130.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 107,
+            "image_id": "Misc_193",
+            "category_id": 0,
+            "bbox": [
+                111,
+                128,
+                2,
+                4
+            ],
+            "area": 8.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 108,
+            "image_id": "Misc_356",
+            "category_id": 0,
+            "bbox": [
+                338,
+                89,
+                6,
+                7
+            ],
+            "area": 42.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 109,
+            "image_id": "Misc_207",
+            "category_id": 0,
+            "bbox": [
+                303,
+                212,
+                2,
+                2
+            ],
+            "area": 4.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 110,
+            "image_id": "Misc_207",
+            "category_id": 0,
+            "bbox": [
+                265,
+                47,
+                4,
+                7
+            ],
+            "area": 28.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 111,
+            "image_id": "Misc_300",
+            "category_id": 0,
+            "bbox": [
+                125,
+                78,
+                4,
+                5
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 112,
+            "image_id": "Misc_300",
+            "category_id": 0,
+            "bbox": [
+                114,
+                70,
+                6,
+                5
+            ],
+            "area": 30.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 113,
+            "image_id": "Misc_217",
+            "category_id": 0,
+            "bbox": [
+                180,
+                182,
+                9,
+                7
+            ],
+            "area": 63.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 114,
+            "image_id": "Misc_1",
+            "category_id": 0,
+            "bbox": [
+                219,
+                132,
+                3,
+                3
+            ],
+            "area": 9.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 115,
+            "image_id": "Misc_1",
+            "category_id": 0,
+            "bbox": [
+                70,
+                74,
+                2,
+                2
+            ],
+            "area": 4.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 116,
+            "image_id": "Misc_236",
+            "category_id": 0,
+            "bbox": [
+                142,
+                102,
+                3,
+                4
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 117,
+            "image_id": "Misc_322",
+            "category_id": 0,
+            "bbox": [
+                137,
+                134,
+                9,
+                11
+            ],
+            "area": 99.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 118,
+            "image_id": "Misc_283",
+            "category_id": 0,
+            "bbox": [
+                180,
+                67,
+                2,
+                4
+            ],
+            "area": 8.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 119,
+            "image_id": "Misc_129",
+            "category_id": 0,
+            "bbox": [
+                112,
+                107,
+                11,
+                5
+            ],
+            "area": 55.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 120,
+            "image_id": "Misc_252",
+            "category_id": 0,
+            "bbox": [
+                263,
+                116,
+                7,
+                3
+            ],
+            "area": 21.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 121,
+            "image_id": "Misc_250",
+            "category_id": 0,
+            "bbox": [
+                76,
+                153,
+                4,
+                3
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 122,
+            "image_id": "Misc_250",
+            "category_id": 0,
+            "bbox": [
+                183,
+                99,
+                6,
+                5
+            ],
+            "area": 30.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 123,
+            "image_id": "Misc_250",
+            "category_id": 0,
+            "bbox": [
+                88,
+                90,
+                4,
+                4
+            ],
+            "area": 16.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 124,
+            "image_id": "Misc_250",
+            "category_id": 0,
+            "bbox": [
+                3,
+                84,
+                5,
+                3
+            ],
+            "area": 15.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 125,
+            "image_id": "Misc_250",
+            "category_id": 0,
+            "bbox": [
+                142,
+                78,
+                5,
+                3
+            ],
+            "area": 15.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 126,
+            "image_id": "Misc_250",
+            "category_id": 0,
+            "bbox": [
+                70,
+                12,
+                5,
+                3
+            ],
+            "area": 15.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 127,
+            "image_id": "Misc_359",
+            "category_id": 0,
+            "bbox": [
+                78,
+                251,
+                6,
+                7
+            ],
+            "area": 42.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 128,
+            "image_id": "Misc_359",
+            "category_id": 0,
+            "bbox": [
+                126,
+                209,
+                8,
+                8
+            ],
+            "area": 64.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 129,
+            "image_id": "S20210527_S6_53",
+            "category_id": 0,
+            "bbox": [
+                277,
+                184,
+                9,
+                9
+            ],
+            "area": 81.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 130,
+            "image_id": "S20210422_S5_23",
+            "category_id": 0,
+            "bbox": [
+                532,
+                343,
+                17,
+                5
+            ],
+            "area": 85.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 131,
+            "image_id": "Misc_336",
+            "category_id": 0,
+            "bbox": [
+                215,
+                137,
+                4,
+                3
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 132,
+            "image_id": "Misc_336",
+            "category_id": 0,
+            "bbox": [
+                91,
+                84,
+                5,
+                3
+            ],
+            "area": 15.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 133,
+            "image_id": "Misc_175",
+            "category_id": 0,
+            "bbox": [
+                293,
+                43,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 134,
+            "image_id": "Misc_175",
+            "category_id": 0,
+            "bbox": [
+                55,
+                10,
+                6,
+                4
+            ],
+            "area": 24.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 135,
+            "image_id": "S20210422_S1_94",
+            "category_id": 0,
+            "bbox": [
+                504,
+                375,
+                4,
+                4
+            ],
+            "area": 16.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 136,
+            "image_id": "S20210422_S1_94",
+            "category_id": 0,
+            "bbox": [
+                328,
+                90,
+                6,
+                4
+            ],
+            "area": 24.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 137,
+            "image_id": "S20210527_S4_26",
+            "category_id": 0,
+            "bbox": [
+                497,
+                79,
+                23,
+                14
+            ],
+            "area": 322.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 138,
+            "image_id": "Misc_401",
+            "category_id": 0,
+            "bbox": [
+                66,
+                41,
+                6,
+                3
+            ],
+            "area": 18.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 139,
+            "image_id": "Misc_401",
+            "category_id": 0,
+            "bbox": [
+                38,
+                15,
+                6,
+                3
+            ],
+            "area": 18.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 140,
+            "image_id": "Misc_302",
+            "category_id": 0,
+            "bbox": [
+                288,
+                198,
+                8,
+                6
+            ],
+            "area": 48.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 141,
+            "image_id": "Misc_302",
+            "category_id": 0,
+            "bbox": [
+                276,
+                192,
+                6,
+                6
+            ],
+            "area": 36.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 142,
+            "image_id": "S20210303_S6_23",
+            "category_id": 0,
+            "bbox": [
+                580,
+                735,
+                11,
+                7
+            ],
+            "area": 77.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 143,
+            "image_id": "S20210527_S7_124",
+            "category_id": 0,
+            "bbox": [
+                317,
+                150,
+                6,
+                5
+            ],
+            "area": 30.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 144,
+            "image_id": "S20210527_S7_149",
+            "category_id": 0,
+            "bbox": [
+                367,
+                244,
+                5,
+                5
+            ],
+            "area": 25.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 145,
+            "image_id": "Misc_204",
+            "category_id": 0,
+            "bbox": [
+                108,
+                116,
+                4,
+                4
+            ],
+            "area": 16.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 146,
+            "image_id": "Misc_386",
+            "category_id": 0,
+            "bbox": [
+                265,
+                210,
+                8,
+                10
+            ],
+            "area": 80.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 147,
+            "image_id": "S20210527_S7_49",
+            "category_id": 0,
+            "bbox": [
+                320,
+                178,
+                9,
+                8
+            ],
+            "area": 72.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 148,
+            "image_id": "Misc_167",
+            "category_id": 0,
+            "bbox": [
+                10,
+                114,
+                4,
+                4
+            ],
+            "area": 16.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 149,
+            "image_id": "Misc_280",
+            "category_id": 0,
+            "bbox": [
+                8,
+                210,
+                4,
+                5
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 150,
+            "image_id": "Misc_280",
+            "category_id": 0,
+            "bbox": [
+                40,
+                55,
+                6,
+                6
+            ],
+            "area": 36.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 151,
+            "image_id": "Misc_86",
+            "category_id": 0,
+            "bbox": [
+                92,
+                21,
+                16,
+                6
+            ],
+            "area": 96.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 152,
+            "image_id": "Misc_154",
+            "category_id": 0,
+            "bbox": [
+                133,
+                68,
+                4,
+                4
+            ],
+            "area": 16.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 153,
+            "image_id": "Misc_119",
+            "category_id": 0,
+            "bbox": [
+                269,
+                61,
+                4,
+                2
+            ],
+            "area": 8.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 154,
+            "image_id": "Misc_119",
+            "category_id": 0,
+            "bbox": [
+                118,
+                21,
+                7,
+                6
+            ],
+            "area": 42.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 155,
+            "image_id": "Misc_198",
+            "category_id": 0,
+            "bbox": [
+                17,
+                68,
+                6,
+                6
+            ],
+            "area": 36.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 156,
+            "image_id": "Misc_370",
+            "category_id": 0,
+            "bbox": [
+                100,
+                159,
+                2,
+                2
+            ],
+            "area": 4.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 157,
+            "image_id": "Misc_191",
+            "category_id": 0,
+            "bbox": [
+                156,
+                130,
+                6,
+                3
+            ],
+            "area": 18.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 158,
+            "image_id": "Misc_63",
+            "category_id": 0,
+            "bbox": [
+                73,
+                100,
+                19,
+                8
+            ],
+            "area": 152.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 159,
+            "image_id": "Misc_362",
+            "category_id": 0,
+            "bbox": [
+                11,
+                90,
+                4,
+                7
+            ],
+            "area": 28.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 160,
+            "image_id": "Misc_121",
+            "category_id": 0,
+            "bbox": [
+                173,
+                74,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 161,
+            "image_id": "Misc_121",
+            "category_id": 0,
+            "bbox": [
+                162,
+                57,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 162,
+            "image_id": "Misc_121",
+            "category_id": 0,
+            "bbox": [
+                146,
+                51,
+                4,
+                3
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 163,
+            "image_id": "Misc_121",
+            "category_id": 0,
+            "bbox": [
+                154,
+                42,
+                4,
+                4
+            ],
+            "area": 16.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 164,
+            "image_id": "Misc_121",
+            "category_id": 0,
+            "bbox": [
+                139,
+                33,
+                4,
+                4
+            ],
+            "area": 16.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 165,
+            "image_id": "Misc_121",
+            "category_id": 0,
+            "bbox": [
+                125,
+                24,
+                3,
+                4
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 166,
+            "image_id": "Misc_274",
+            "category_id": 0,
+            "bbox": [
+                68,
+                40,
+                4,
+                4
+            ],
+            "area": 16.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 167,
+            "image_id": "Misc_281",
+            "category_id": 0,
+            "bbox": [
+                254,
+                139,
+                6,
+                4
+            ],
+            "area": 24.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 168,
+            "image_id": "Misc_349",
+            "category_id": 0,
+            "bbox": [
+                166,
+                142,
+                7,
+                8
+            ],
+            "area": 56.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 169,
+            "image_id": "Misc_187",
+            "category_id": 0,
+            "bbox": [
+                167,
+                69,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 170,
+            "image_id": "Misc_187",
+            "category_id": 0,
+            "bbox": [
+                53,
+                15,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 171,
+            "image_id": "Misc_326",
+            "category_id": 0,
+            "bbox": [
+                237,
+                65,
+                4,
+                5
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 172,
+            "image_id": "Misc_326",
+            "category_id": 0,
+            "bbox": [
+                128,
+                9,
+                5,
+                6
+            ],
+            "area": 30.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 173,
+            "image_id": "Misc_355",
+            "category_id": 0,
+            "bbox": [
+                66,
+                199,
+                4,
+                5
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 174,
+            "image_id": "Misc_355",
+            "category_id": 0,
+            "bbox": [
+                10,
+                186,
+                3,
+                4
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 175,
+            "image_id": "Misc_234",
+            "category_id": 0,
+            "bbox": [
+                168,
+                96,
+                7,
+                6
+            ],
+            "area": 42.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 176,
+            "image_id": "Misc_150",
+            "category_id": 0,
+            "bbox": [
+                62,
+                11,
+                3,
+                4
+            ],
+            "area": 12.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 177,
+            "image_id": "S20210303_S5_28",
+            "category_id": 0,
+            "bbox": [
+                424,
+                773,
+                11,
+                3
+            ],
+            "area": 33.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 178,
+            "image_id": "Misc_192",
+            "category_id": 0,
+            "bbox": [
+                144,
+                140,
+                5,
+                4
+            ],
+            "area": 20.0,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 179,
+            "image_id": "Misc_96",
+            "category_id": 0,
+            "bbox": [
+                146,
+                113,
+                16,
+                10
+            ],
+            "area": 160.0,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "target",
+            "supercategory": "target"
+        }
+    ]
+}
