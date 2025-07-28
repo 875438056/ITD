@@ -22,7 +22,7 @@
 
 ## Det Results
 
-| Models         | mAP   | mAP50 | Recall | FLOPs   | Params  | FPS  | weight |
+| Models         | mAP   | mAP50 | Recall | FLOPs   | Params  | FPS  | Weights |
 |----------------|-------|-------|--------|---------|---------|------|------|
 | Faster RCNN  | 0.413 | 0.543 | 0.470  | 134 G   | 41.0 M  | 20   | [[Link](https://drive.google.com/file/d/18wmWKM3wMBQsusOR-_bGAu5l967Qp4TT/view?usp=drive_link)] |
 | YOLOv5s     | 0.437 | 0.644 | 0.543  | 15.9 G  | 7.02 M  | 185.1| [[Link](https://drive.google.com/file/d/1Zc6vh_ebHxBzhAYzD4CwHPdxZ5C7dXI6/view?usp=drive_link)] |
