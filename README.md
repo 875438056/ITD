@@ -1,5 +1,5 @@
 # ITD
-Infared tiny target detection--
+Infrared Tiny Target Detection  
 we will upload related code after paper is accepted.
 
 # Datasets sources
