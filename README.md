@@ -58,11 +58,11 @@ Required environments:
 
 ## Visualization
 
-ITT Det Results [[Link](https://drive.google.com/drive/folders/1FeNYnrWnm2C8sX-Op0SCaeTh1X039brR?usp=drive_link)]  
+- ITT Det Results [[Link](https://drive.google.com/drive/folders/1FeNYnrWnm2C8sX-Op0SCaeTh1X039brR?usp=drive_link)]  
 <img src="IMG/17results.svg" alt="Example Image" width="500"/>
 
-SIRST Det Results [[Link](https://drive.google.com/drive/folders/1r1rSkH82cFFb_X34p4bP2pioBZG1i1uy?usp=drive_link)]  
+- SIRST Det Results [[Link](https://drive.google.com/drive/folders/1r1rSkH82cFFb_X34p4bP2pioBZG1i1uy?usp=drive_link)]  
 <img src="IMG/18SIRST.svg" alt="Example Image" width="500"/>
 
-IRSTD-1k Det Results [[Link](https://drive.google.com/drive/folders/1arjoZB9d5FML-l2309nhO0CadUT7l0zg?usp=drive_link)]  
+- IRSTD-1k Det Results [[Link](https://drive.google.com/drive/folders/1arjoZB9d5FML-l2309nhO0CadUT7l0zg?usp=drive_link)]  
 <img src="IMG/19IRSTD-1K.svg" alt="Example Image" width="500"/>
