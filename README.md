@@ -18,8 +18,6 @@ Required environments:
 - mmengine	0.10.7   
 - numpy	1.26.4  
 - opencv-python	4.11.0.86  
-- torch	2.6.0+cu126  
-- torchvision	0.21.0+cu126
 
 ## Prepare Datasets:
 - [SIRST](https://github.com/YimianDai/sirst)  
