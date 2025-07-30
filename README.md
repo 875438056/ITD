@@ -21,13 +21,13 @@ Required environments:
 - torch	2.6.0+cu126  
 - torchvision	0.21.0+cu126
 
-## Prepare datasets:
+## Prepare Datasets:
 - [SIRST](https://github.com/YimianDai/sirst)  
 - [IRSTD-1k](https://github.com/RuiZhang97/ISNet)  
 - [ITT-2_15-original](https://drive.google.com/drive/folders/166iNTmKyahH7TPzSQjt5-1j4BEX9uw-Z?usp=drive_link)  
 - [ITT-2_15-annotations](https://drive.google.com/drive/folders/1i-jUefALSH65jJS0hs90L_eo__vYfa2A?usp=drive_link)
 
-## Det Results
+## Main Results
 
 | Models         | mAP   | mAP50 | Recall | FLOPs   | Params  | FPS  | Weights |
 |----------------|-------|-------|--------|---------|---------|------|------|
