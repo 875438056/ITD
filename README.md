@@ -1,20 +1,20 @@
-# ITD
-## Infrared Tiny Target Detection  
+# Infrared Tiny Target Detection (ITD)
+ 
 
-# Datasets sources
--[SIRST](https://github.com/YimianDai/sirst)  
--[IRSTD-1k](https://github.com/RuiZhang97/ISNet)  
--[ITT-2_15-original](https://drive.google.com/drive/folders/166iNTmKyahH7TPzSQjt5-1j4BEX9uw-Z?usp=drive_link)  
--[ITT-2_15-annotations](https://drive.google.com/drive/folders/1i-jUefALSH65jJS0hs90L_eo__vYfa2A?usp=drive_link)
+## Prepare datasets
+- [SIRST](https://github.com/YimianDai/sirst)  
+- [IRSTD-1k](https://github.com/RuiZhang97/ISNet)  
+- [ITT-2_15-original](https://drive.google.com/drive/folders/166iNTmKyahH7TPzSQjt5-1j4BEX9uw-Z?usp=drive_link)  
+- [ITT-2_15-annotations](https://drive.google.com/drive/folders/1i-jUefALSH65jJS0hs90L_eo__vYfa2A?usp=drive_link)
 
-## Prerequisites
--mmcv	2.1.0  
--mmdet	3.3.0  
--mmengine	0.10.7   
--numpy	1.26.4  
--opencv-python	4.11.0.86  
--torch	2.6.0+cu126  
--torchvision	0.21.0+cu126
+## Required environments:
+- mmcv	2.1.0  
+- mmdet	3.3.0  
+- mmengine	0.10.7   
+- numpy	1.26.4  
+- opencv-python	4.11.0.86  
+- torch	2.6.0+cu126  
+- torchvision	0.21.0+cu126
 
 ## Model Architecture
 <img src="IMG/7structure.svg" alt="Example Image" width="500"/>
@@ -51,7 +51,7 @@
 |             | **Ours** | **0.964** | **0.927** | **0.945** |
 
 
-##Visualization
+## Visualization
 
 ### ITT Det Results [[Link](https://drive.google.com/drive/folders/1FeNYnrWnm2C8sX-Op0SCaeTh1X039brR?usp=drive_link)]
 <img src="IMG/17results.svg" alt="Example Image" width="500"/>
