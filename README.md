@@ -1,13 +1,19 @@
 # Infrared Tiny Target Detection (ITD)
  
+## Introduction
+Label assignment strategies based on anchor and point priors exhibit severe sample mismatch for tiny targets in infrared scenes. While heatmap-based methods mitigate this by
+encoding supervision signal as Gaussian distribution to ensure positive sample assignment, they remain susceptible to supervision signal degradation and perceptual-region misalignment for tiny targets. To this end, we propose a novel method featuring centroid-aware asymmetric heatmap encoding and a Gaussian Focal-weighted Kullback–Leibler Divergence (GFKL) Loss. Specifically, we encode the target into a 2D Gaussian heatmap supervision signal, positioning its peak at the target’s centroid. This alignment directs the network’s perceptual focus toward the target’s core region, enabling the model to learn more accurate features for tiny targets. The asymmetric encoding dynamically tailors the distribution’s shape along the X and Y axes according to the target’s width and height, yielding a smoother and more learnable supervision signal for tiny targets. Furthermore, the GFLK loss introduces a dual-weight. A Focal weight reduces the penalty for easy samples, thereby directing the model’s focus toward hard ones. In parallel, a Gaussian weight lessens the penalty near the distribution’s peak, which ensures the continuity of the prediction space for tiny targets. We conducted extensive evaluations on three infrared tiny object datasets, benchmarking our method against both generic and SOTA models. The results confirm that our approach significantly enhances detection accuracy for infrared tiny targets and also demonstrates competitive advantages in deployment and inference speed.
 
-## Prepare datasets
-- [SIRST](https://github.com/YimianDai/sirst)  
-- [IRSTD-1k](https://github.com/RuiZhang97/ISNet)  
-- [ITT-2_15-original](https://drive.google.com/drive/folders/166iNTmKyahH7TPzSQjt5-1j4BEX9uw-Z?usp=drive_link)  
-- [ITT-2_15-annotations](https://drive.google.com/drive/folders/1i-jUefALSH65jJS0hs90L_eo__vYfa2A?usp=drive_link)
+## Method
+<img src="IMG/7structure.svg" alt="Example Image" width="500"/>
+<img src="IMG/主干网络模块.jpg" alt="Example Image" width="500"/>
 
-## Required environments:
+
+## Installation and Get Started
+![python](https://img.shields.io/badge/python-3.8-green)
+![pytorch](https://img.shields.io/badge/pytorch-2.6.0-green)
+
+Required environments:
 - mmcv	2.1.0  
 - mmdet	3.3.0  
 - mmengine	0.10.7   
@@ -16,9 +22,11 @@
 - torch	2.6.0+cu126  
 - torchvision	0.21.0+cu126
 
-## Model Architecture
-<img src="IMG/7structure.svg" alt="Example Image" width="500"/>
-<img src="IMG/主干网络模块.jpg" alt="Example Image" width="500"/>
+## Prepare datasets:
+- [SIRST](https://github.com/YimianDai/sirst)  
+- [IRSTD-1k](https://github.com/RuiZhang97/ISNet)  
+- [ITT-2_15-original](https://drive.google.com/drive/folders/166iNTmKyahH7TPzSQjt5-1j4BEX9uw-Z?usp=drive_link)  
+- [ITT-2_15-annotations](https://drive.google.com/drive/folders/1i-jUefALSH65jJS0hs90L_eo__vYfa2A?usp=drive_link)
 
 ## Det Results
 
